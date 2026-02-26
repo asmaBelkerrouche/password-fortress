@@ -18,18 +18,9 @@
 
 ## 📋 **Table of Contents**
 - [Overview](#-overview)
-- [The Math](#-the-math-behind-it)
-- [Features](#-features)
-- [Model Architecture](#-model-architecture)
-- [Quick Start](#-quick-start)
-- [Usage Guide](#-usage-guide)
-- [Business Model](#-business-model)
-- [Performance Metrics](#-performance-metrics)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Team](#-team)
+- [The Problem](#-the-problem)
+- [Our Solution](#-our-solution)
+- [The Math Behind It](#-the-math-behind-it)
 
 ---
 
